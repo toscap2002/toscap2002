@@ -1,6 +1,7 @@
 ## 👋 CIAO!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@9.11.0/icons/python.svg" alt="Python" height="40" width="40"/>
 
 <!--
 **toscap2002/toscap2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
