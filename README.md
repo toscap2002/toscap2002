@@ -5,7 +5,10 @@ Sono Tosca Pierro e sono una studentessa dell'Università Politecnica delle Marc
 <!--
 ** 🔭
 - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+![Python](https://img.shields.io/badge/python-%230376D6?style=for-the-badge&logo=python&logoColor=white)
+
 -->
+
 <!--
 **toscap2002/toscap2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
